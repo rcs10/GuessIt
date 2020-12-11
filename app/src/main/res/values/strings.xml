@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GuessIt</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DummyTitle">Title Fragment</string>
+    <string name="DummyGame">Game Fragment</string>
+    <string name="DummyResult">ResultFragment</string>
+    <string name="play">Play</string>
+    <string name="get_ready_to">Get ready to</string>
+    <string name="guess_the_word">Guess the word!!</string>
+    <string name="correct">Correct</string>
+    <string name="skip">Skip</string>
+    <string name="the_word_is">The Word is</string>
+    <string name="word">Word</string>
+    <string name="score">score:0</string>
+    <string name="timer">Timer:0</string>
+    <string name="your_score">You Scored</string>
+    <string name="zero">0</string>
+    <string name="playagain">Play Again</string>
+    <string name="wordFormat">\"%s\"</string>
+    <string name="scoreFormat">Current Score: %d</string>
+</resources>
